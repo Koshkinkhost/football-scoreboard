@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "заказ демо", "заказ демо\заказ демо.csproj", "{83C2C45A-5F83-43F1-B7F0-672A7A6468B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{39286852-0E6E-4EE9-8B07-1B364DCF2070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83C2C45A-5F83-43F1-B7F0-672A7A6468B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C2C45A-5F83-43F1-B7F0-672A7A6468B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C2C45A-5F83-43F1-B7F0-672A7A6468B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C2C45A-5F83-43F1-B7F0-672A7A6468B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39286852-0E6E-4EE9-8B07-1B364DCF2070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39286852-0E6E-4EE9-8B07-1B364DCF2070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39286852-0E6E-4EE9-8B07-1B364DCF2070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39286852-0E6E-4EE9-8B07-1B364DCF2070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D61FC1E-AA1C-4393-A9EA-DEFD7305376F}
+	EndGlobalSection
+EndGlobal
